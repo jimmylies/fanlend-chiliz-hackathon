@@ -9,8 +9,7 @@ A decentralized lending & borrowing ecosystem on the Chiliz Chain, tailored spec
 ## 📂 Repository Structure
 
 ```plaintext
-├── whitepaper/
-│ └── FanLend-Chiliz-Hackathon-Whitepaper.pdf
+├── fanlend-chiliz-hackathon-whitepaper.pdf
 ├── contracts/
 │ ├── CollateralVault.sol
 │ ├── PositionManager.sol
