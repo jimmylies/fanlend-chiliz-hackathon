@@ -1,0 +1,42 @@
+input {
+  color: var(--main-color);
+  font-size: 1.5rem;
+  width: 100%;
+  height: 40px;
+  caret-color: var(--secondary-color);
+
+  &:disabled {
+    cursor: not-allowed;
+  }
+
+  &:focus {
+    outline-width: 0;
+  }
+}
+
+.select-token {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  background-color: var(--main-bg);
+  padding: 0.5rem 0.5rem;
+  border-radius: 100px;
+
+  &.selectable {
+    background-color: var(--secondary-color);
+  }
+
+  &.isChangeable {
+    cursor: pointer;
+
+    &:hover {
+      opacity: 0.75;
+    }
+  }
+
+  .logo {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+  }
+}
