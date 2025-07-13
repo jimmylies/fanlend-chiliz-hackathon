@@ -10,7 +10,7 @@ A decentralized lending & borrowing ecosystem on the Chiliz Chain, tailored spec
 
 ```plaintext
 ├── whitepaper/
-│ └── Chiliz-Fan-Token-Lending-Borrowing-Protocol.pdf
+│ └── FanLend-Chiliz-Hackathon-Whitepaper.pdf
 ├── contracts/
 │ ├── CollateralVault.sol
 │ ├── PositionManager.sol
@@ -23,10 +23,8 @@ A decentralized lending & borrowing ecosystem on the Chiliz Chain, tailored spec
 │ │ └── utils/
 │ ├── public/
 │ ├── package.json
-│ └── tailwind.config.js
 ├── .gitignore
 ├── README.md
-└── LICENSE
 ```
 
 ---
@@ -34,7 +32,7 @@ A decentralized lending & borrowing ecosystem on the Chiliz Chain, tailored spec
 ## 🚀 Key Features
 
 - **Lending Pool**  
-  Deposit stablecoins (CHZ, USDC, DAI) to earn variable APY, paid in both interest and protocol governance token (LEND).
+  Deposit stablecoins (USDC, ETH) to earn variable APY, paid in both interest and protocol governance token (LEND).
 
 - **Long & Short Margin Trading**
 
