@@ -8,6 +8,7 @@ A decentralized lending & borrowing ecosystem on the Chiliz Chain, tailored spec
 
 ## 📂 Repository Structure
 
+```plaintext
 ├── whitepaper/
 │ └── Chiliz-Fan-Token-Lending-Borrowing-Protocol.pdf
 ├── contracts/
@@ -26,6 +27,7 @@ A decentralized lending & borrowing ecosystem on the Chiliz Chain, tailored spec
 ├── .gitignore
 ├── README.md
 └── LICENSE
+```
 
 ---
 
